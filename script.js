@@ -1,4 +1,4 @@
-your JS code here. If required.
+// your JS code here. If required.
 let currenturl = window.location.href;
 let n = currenturl.length;
 
